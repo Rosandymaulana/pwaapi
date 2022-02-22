@@ -1,0 +1,24 @@
+{
+  "products": [
+{"id":1,"name":"Scottish highland cow","category":"Goldenrod"},
+{"id":2,"name":"Squirrel, nelson ground","category":"Fuscia"},
+{"id":3,"name":"American crow","category":"Mauv"},
+{"id":4,"name":"Python (unidentified)","category":"Khaki"},
+{"id":5,"name":"Lion, asian","category":"Yellow"},
+{"id":6,"name":"Reindeer","category":"Fuscia"},
+{"id":7,"name":"Desert kangaroo rat","category":"Pink"},
+{"id":8,"name":"Hornbill, southern ground","category":"Turquoise"},
+{"id":9,"name":"Deer, swamp","category":"Crimson"},
+{"id":10,"name":"Swan, black","category":"Green"},
+{"id":11,"name":"American buffalo","category":"Orange"},
+{"id":12,"name":"Barbet, levaillant's","category":"Pink"},
+{"id":13,"name":"Pampa gray fox","category":"Fuscia"},
+{"id":14,"name":"Red hartebeest","category":"Pink"},
+{"id":15,"name":"Deer, roe","category":"Goldenrod"},
+{"id":16,"name":"Monitor, water","category":"Indigo"},
+{"id":17,"name":"Monitor lizard (unidentified)","category":"Crimson"},
+{"id":18,"name":"Goat, mountain","category":"Pink"},
+{"id":19,"name":"Alligator, mississippi","category":"Orange"},
+{"id":20,"name":"Vulture, black","category":"Purple"}
+  ]
+}
